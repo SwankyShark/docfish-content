@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-03-13T18:00:09Z",
+  "sourceCommit": "2b481fb4384c56fc9064a507e0ff78eb986861eb",
+  "sourceCommitDate": "2026-02-16T15:36:03Z",
+  "sourceCommitMessage": "Seed1",
+  "sourceBranch": "seed_OS-26.4",
+  "promotedAt": null,
+  "contentUrl": "https://swankyshark.github.io/docfish-content/seeds/seed_OS-26.4/content-20260313-1800.json",
+  "contentSize": 2279364,
+  "contentSHA256": "d5171bd64bd4b183727e86a3b8e431b8d60b54407e552c05726695efb32d55a2",
+  "schemaStatus": "compatible",
+  "requiredAppVersion": "1.0.0"
+}
