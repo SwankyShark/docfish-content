@@ -1,4 +1,12 @@
 {
-  "generatedAt": "2026-03-25T15:00:18Z",
-  "seeds": []
+  "generatedAt": "2026-06-08T20:00:12Z",
+  "seeds": [
+    {
+      "branchName": "seed_OS_27_0",
+      "sourceCommit": "1548d422768fe7a125e4a6f30ee0cb121a0cc333",
+      "sourceCommitDate": "2026-06-08T14:27:51Z",
+      "sourceCommitMessage": "Seed1",
+      "manifestUrl": "https://swankyshark.github.io/docfish-content/seeds/seed_OS_27_0/manifest.json"
+    }
+  ]
 }
