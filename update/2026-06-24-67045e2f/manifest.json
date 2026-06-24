@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-24T22:53:53Z",
+  "sourceCommit": "67045e2fa06f528b196c01edee6a8bf88b844beb",
+  "sourceCommitDate": "2026-03-25T14:10:17Z",
+  "sourceCommitMessage": "Release-v26.4",
+  "sourceBranch": "release",
+  "promotedAt": null,
+  "contentUrl": "https://swankyshark.github.io/docfish-content/update/2026-06-24-67045e2f/content-20260624-2253.json",
+  "contentSize": 2278458,
+  "contentSHA256": "0dd62e3b5ef65367c171f57b8f964fbc3502a2eed2413ee8bfed2161d7419d87",
+  "schemaStatus": "extended",
+  "requiredAppVersion": "1.0.0"
+}
