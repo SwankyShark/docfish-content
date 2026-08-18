@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T15:00:10Z",
-  "sourceCommit": "61449b07e22d7d659aaa9ae65a29688cff3902a2",
-  "sourceCommitDate": "2026-08-12T14:12:50Z",
-  "sourceCommitMessage": "Seed5",
+  "generatedAt": "2026-08-18T20:00:08Z",
+  "sourceCommit": "255d4a2d841448f71f526e4b5d5f7ad795de86ca",
+  "sourceCommitDate": "2026-08-18T19:34:21Z",
+  "sourceCommitMessage": "Seed6",
   "sourceBranch": "seed_OS_27_0",
   "promotedAt": null,
-  "contentUrl": "https://swankyshark.github.io/docfish-content/seeds/seed_OS_27_0/content-20260812-1500.json",
-  "contentSize": 2735269,
-  "contentSHA256": "e9ac7c74508ac73f92bc0d9c08c6860f97128f9603691536704965f7e555b7ca",
+  "contentUrl": "https://swankyshark.github.io/docfish-content/seeds/seed_OS_27_0/content-20260818-2000.json",
+  "contentSize": 2740981,
+  "contentSHA256": "ff0621461c71d349a4b53a3c268009b987c48668cd38a3746d2c80de8fa71ee7",
   "schemaStatus": "compatible",
   "requiredAppVersion": "1.0.0"
 }
