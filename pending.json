@@ -1,7 +1,7 @@
 {
-  "pendingBranch": "update/2026-06-24-67045e2f",
-  "sourceCommit": "67045e2fa06f528b196c01edee6a8bf88b844beb",
-  "generatedAt": "2026-06-24T22:54:01Z",
-  "schemaStatus": "extended",
+  "pendingBranch": "update/2026-09-17-09f249a0",
+  "sourceCommit": "09f249a06e7e3289930bf6d05f38fb562f748ebf",
+  "generatedAt": "2026-09-17T15:00:19Z",
+  "schemaStatus": "breaking",
   "promotedAt": null
 }
